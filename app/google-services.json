@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "370280354172",
+    "firebase_url": "https://dexterai-170404.firebaseio.com",
+    "project_id": "dexterai-170404",
+    "storage_bucket": "dexterai-170404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370280354172:android:7c2c751f3c0fd1c2",
+        "android_client_info": {
+          "package_name": "com.ai.deepbrain.dexterai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370280354172-pcpmq3rojhk08dcbtr81ak1g4pkt69fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ai.deepbrain.dexterai",
+            "certificate_hash": "57ee7369eaa4c98ae1bbdc662fea4a487b45aa09"
+          }
+        },
+        {
+          "client_id": "370280354172-45b1grrecb882mvi7of719htotbvjtum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjd2iIr_bAFGpelk3sswjo8hDJWSi1yLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370280354172-45b1grrecb882mvi7of719htotbvjtum.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370280354172-1qs61jaaner4kgjolegv33hto9s140u4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ai.deepbrain.dexterai"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
